@@ -25,14 +25,14 @@ Question 2
 Type: MCQ
 
 What are some problems with the waterfall process?
-A. Well-organized and logical
-B. All of the above
-C. Hard to accommodate changes
-D. May produce software customers do not want
+A. Well-organized and logical<br/>
+B. All of the above<br/>
+C. Hard to accommodate changes<br/>
+D. May produce software customers do not want<br/>
 
 Correct answers:
-C. Hard to accommodate changes
-D. May produce software customers do not want
+C. Hard to accommodate changes<br/>
+D. May produce software customers do not want<br/>
 
 ----------
 
@@ -40,15 +40,15 @@ Question 3
 Type: MCQ
 
 Agile vs. waterfall
-A. Waterfall process is iterative
-B. Agile is about following a well-defined plan
-C. Agile does not emphasize comprehensive requirement documents
-D. Agile can be both iterative and incremental
-E. You must implement Scrum to be agile
+A. Waterfall process is iterative<br/>
+B. Agile is about following a well-defined plan<br/>
+C. Agile does not emphasize comprehensive requirement documents<br/>
+D. Agile can be both iterative and incremental<br/>
+E. You must implement Scrum to be agile<br/>
 
 Correct answers:
-C. Agile does not emphasize comprehensive requirement documents
-D. Agile can be both iterative and incremental
+C. Agile does not emphasize comprehensive requirement documents<br/>
+D. Agile can be both iterative and incremental<br/>
 
 ----------
 
@@ -56,16 +56,16 @@ Question 4
 Type: MCQ
 
 Choose the incorrect statements about Scrum:
-A. Scrum is not iterative
-B. Product owner must be the project manager
-C. A backlog contains all sprints
-D. Scrum focuses on contract negotiation
-E. Scrum mandates a strict step-by-step software process
+A. Scrum is not iterative<br/>
+B. Product owner must be the project manager<br/>
+C. A backlog contains all sprints<br/>
+D. Scrum focuses on contract negotiation<br/>
+E. Scrum mandates a strict step-by-step software process<br/>
 
 Correct answers:
-A. Scrum is not iterative
-B. Product owner must be the project manager
-C. A backlog contains all sprints
+A. Scrum is not iterative<br/>
+B. Product owner must be the project manager<br/>
+C. A backlog contains all sprints<br/>
 D. Scrum focuses on contract negotiation
 E. Scrum mandates a strict step-by-step software process
 
