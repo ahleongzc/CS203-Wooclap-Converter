@@ -30,7 +30,7 @@ B. All of the above<br/>
 C. Hard to accommodate changes<br/>
 D. May produce software customers do not want<br/>
 
-Correct answers:
+Correct answers:<br/>
 C. Hard to accommodate changes<br/>
 D. May produce software customers do not want<br/>
 
@@ -46,7 +46,7 @@ C. Agile does not emphasize comprehensive requirement documents<br/>
 D. Agile can be both iterative and incremental<br/>
 E. You must implement Scrum to be agile<br/>
 
-Correct answers:
+Correct answers:<br/>
 C. Agile does not emphasize comprehensive requirement documents<br/>
 D. Agile can be both iterative and incremental<br/>
 
@@ -62,7 +62,7 @@ C. A backlog contains all sprints<br/>
 D. Scrum focuses on contract negotiation<br/>
 E. Scrum mandates a strict step-by-step software process<br/>
 
-Correct answers:
+Correct answers:<br/>
 A. Scrum is not iterative<br/>
 B. Product owner must be the project manager<br/>
 C. A backlog contains all sprints<br/>
