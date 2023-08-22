@@ -14,17 +14,17 @@ Steps to use this code:
 !! Week1 Wooclap !!
 ----------
 
-Question 1
-Type: OpenQuestion
+Question 1<br/>
+Type: OpenQuestion<br/>
 
 What messages does this image try to send?
 
 ----------
 
-Question 2
+Question 2<br/>
 Type: MCQ
 
-What are some problems with the waterfall process?
+What are some problems with the waterfall process?<br/>
 A. Well-organized and logical<br/>
 B. All of the above<br/>
 C. Hard to accommodate changes<br/>
@@ -36,10 +36,10 @@ D. May produce software customers do not want<br/>
 
 ----------
 
-Question 3
+Question 3<br/>
 Type: MCQ
 
-Agile vs. waterfall
+Agile vs. waterfall<br/>
 A. Waterfall process is iterative<br/>
 B. Agile is about following a well-defined plan<br/>
 C. Agile does not emphasize comprehensive requirement documents<br/>
@@ -52,10 +52,10 @@ D. Agile can be both iterative and incremental<br/>
 
 ----------
 
-Question 4
+Question 4<br/>
 Type: MCQ
 
-Choose the incorrect statements about Scrum:
+Choose the incorrect statements about Scrum:<br/>
 A. Scrum is not iterative<br/>
 B. Product owner must be the project manager<br/>
 C. A backlog contains all sprints<br/>
