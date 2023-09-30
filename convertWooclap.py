@@ -1,6 +1,6 @@
 import csv
 
-fileName = "Week1"
+fileName = "Week5"
 
 format = ".csv"
 filePath = "./" + fileName + format
@@ -11,6 +11,7 @@ print("2. Save the file to .csv ")
 print("3. Rename it to 'Week<Number>' with no spaces")
 print("4. Change the fileName variable at the top to the file to 'Week<Number>'")
 print("\t* Not necessary to follow step 3 and 4\n")
+
 
 with open(filePath, "r") as file:
 
@@ -28,7 +29,7 @@ with open(filePath, "r") as file:
 
         print(f"Question {number}")
         print(f"Type: {questionType}\n")
-        print(questionTitle)
+        print(f"{questionTitle}\n")
         choices = row[3:]
 
         if questionType == "MCQ":
@@ -45,7 +46,7 @@ with open(filePath, "r") as file:
             correctAnswers = [choices[index - 1]
                               for index in answerIndex if choices[index - 1] != ""]
 
-            print("\nCorrect answers:")
+            print("\nCorrect answers:\n")
 
             for correctAnswer in correctAnswers:
                 ch = list(map.keys())[list(map.values()).index(correctAnswer)]
