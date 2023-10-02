@@ -1,6 +1,6 @@
-# CS203-Wooclap-Converter
+# Wooclap-Converter
 
-This repository contains the code written in Python that converts the Wooclap slides from CS203 Collaborative Software Development into a readable format.
+This repository contains the code written in Python that converts the Wooclap slides into a readable format.
 
 Example: 
 
